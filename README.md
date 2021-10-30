@@ -16,7 +16,7 @@
 
 ## User Confirmation
 
-- One of the setup options asks if for your mail service provider, though if you do not have one you can use the local dev server as your friend.
+- One of the setup options asks for your email service provider.  If you do not have one, you can use the local dev server as your friend.
 
 ![image](https://user-images.githubusercontent.com/10120600/139515827-18e4d369-beae-4b94-88bb-8fb03f6a7edf.png)
 
@@ -34,7 +34,7 @@ Subject: [Nebulous] Please Confirm Your E-mail Address
 From: webmaster@localhost
 To: test@example.com
 Date: Fri, 29 Oct 2021 23:52:24 -0000
-Message-ID: <163555154406.71794.8152055035143325499@SharKMe.local>
+Message-ID: <163555154406.71794.8152055035143325499@Macbook.local>
 
 Hello from Nebulous!
 
