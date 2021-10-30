@@ -2,6 +2,15 @@
 
 ## Getting Started
 
+- Setup project files
+- Configure Postgres (other DBs are possible) database
+- Launch local dev server
+- Create a user
+- Confirm user (via cli)
+- Review Django Dashboard stats
+
+
+
 ## User Confirmation
 
 ![image](https://user-images.githubusercontent.com/10120600/139515827-18e4d369-beae-4b94-88bb-8fb03f6a7edf.png)
