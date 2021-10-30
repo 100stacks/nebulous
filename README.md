@@ -56,7 +56,7 @@ example.com
 [29/Oct/2021 23:58:28] "GET / HTTP/1.1" 200 13840
 ```
 
-Please noticed the email template output from the local dev server:
+Please notice the email template output from the local dev server:
 
 ```
 To confirm this is correct, go to http://0.0.0.0:8000/accounts/confirm-email/MQ:1mgbfc:nJaLJGyzdfu_bMewsKlo_NXXda6eEex2yqMJ5WwoM3g/
