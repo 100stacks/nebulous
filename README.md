@@ -26,4 +26,11 @@
 
 ![image](https://user-images.githubusercontent.com/10120600/139516077-d1c4d62f-53bc-4255-b8db-b20e7f5fb019.png)
 
+### Request Headers
+
+![image](https://user-images.githubusercontent.com/10120600/139550094-cc269307-8941-4d06-92cc-bb755b6556c5.png)
+
+### PostgreSQL Queries
+
+![image](https://user-images.githubusercontent.com/10120600/139551549-cc426de5-e32e-4c5a-bc02-7df28154e476.png)
 
